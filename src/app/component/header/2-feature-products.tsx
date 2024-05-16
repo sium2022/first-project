@@ -9,13 +9,13 @@ function FeatureProduct () {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mt-24 gap-6">
 
           {/* first card */}
-          {/* <div className="card bg-slate-100 shadow-xl py-8 flex-column">
-            <figure><img src="images/tea-1.png" alt="Shoes" /></figure>
+          <div className="card bg-slate-100 shadow-xl py-8 flex-col items-center">
+            <figure className="items-center"><img src="images/tea-1.png" alt="Shoes"/></figure>
             <div className="card-body items-center">
               <h2 className="card-title text-2xl font-extrabold">Milk Tea</h2>
               <p className="text-base font-normal">Creamer could be replaced by fresh milk</p>
             </div>
-          </div> */}
+          </div>
 
           {/* second card */}
           <div className="card bg-slate-100 shadow-xl py-8">
