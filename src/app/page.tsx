@@ -1,4 +1,4 @@
-import Header from "./component/1-header";
+import Header from "./component/Header/1-header";
 import FeatureProduct from "./component/2-feature-products";
 import GreatTea from "./component/3-great-tea";
 import ClientsReview from "./component/4-clients-review";
