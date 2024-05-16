@@ -1,3 +1,6 @@
+import FeaturedComponent
+
+
 function FeatureProduct () {
     return <div className="container mx-2 md:mx-auto lg:mx-auto">
         <section className="text-center my-24">
