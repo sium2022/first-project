@@ -1,7 +1,7 @@
-import Header from "./component/header/1-header";
-import FeatureProduct from "./component/header/2-feature-products";
-import GreatTea from "./component/header/3-great-tea";
-import ClientsReview from "./component/header/4-clients-review";
+import Header from "./component/1-header";
+import FeatureProduct from "./component/2-feature-products";
+import GreatTea from "./component/3-great-tea";
+import ClientsReview from "./component/4-clients-review";
 import NewsEvents from "./component/5-news-events";
 import Footer from "./component/6-footer";
 
